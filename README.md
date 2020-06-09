@@ -2,10 +2,14 @@
 ## Casting Agency Specifications:<br>
 The Casting Agency models a company that is responsible for creating movies and managing and assigning actors to those movies. You are an Executive Producer within the company and are creating a system to simplify and streamline your process.
 
-## Models:<br>
-
-Movies with attributes title and release date<br>
-Actors with attributes name, age and gender<br>
+### Models:<br>
+* Movies
+  * title 
+  * release date<br>
+* Actors 
+  * name
+  * age
+  * gender<br>
 ### Endpoints:<br>
 * GET /actors and /movies<br>
 * DELETE /actors/ and /movies/<br>
