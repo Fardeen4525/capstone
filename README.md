@@ -1,11 +1,10 @@
 # capstone
-Two sets of specifications have been created for this project. The first set is general and not domain specified. This is for students who want to practice and have their own topic they want to use as the content for the project. Students who may not have their own idea can use the Casting Agency specifications to have slightly more structure when you get started.
 Casting Agency Specifications
 The Casting Agency models a company that is responsible for creating movies and managing and assigning actors to those movies. You are an Executive Producer within the company and are creating a system to simplify and streamline your process.
 
 Models:
 
-Movies with attributes title and release date
+Movies with attributes title and release date\n
 Actors with attributes name, age and gender
 Endpoints:
 GET /actors and /movies
