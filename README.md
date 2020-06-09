@@ -1,8 +1,8 @@
 ## Udacity capstone project.
-#Casting Agency Specifications:<br>
+# Casting Agency Specifications:<br>
 The Casting Agency models a company that is responsible for creating movies and managing and assigning actors to those movies. You are an Executive Producer within the company and are creating a system to simplify and streamline your process.
 
-#Models:
+# Models:<br>
 
 Movies with attributes title and release date<br>
 Actors with attributes name, age and gender<br>
